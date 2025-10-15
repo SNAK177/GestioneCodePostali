@@ -1,7 +1,7 @@
 # GestioneCodePostali 
 
 🧍‍♂️ PERSONA IN ATTESA DI ESSERE SERVITA (Cliente)
-🟩 Epic: Gestione Esperienza Cliente /n
+🟩 Epic: Gestione Esperienza Cliente 
 ID	Titolo Task	Descrizione	Obiettivo	Criteri di accettazione
 C1	Implementare pagina richiesta ticket (TicketRequest.jsx)	Creare interfaccia per selezionare tipo di servizio e richiedere un numero.	Consentire al cliente di entrare in coda.	Dopo click su “Prendi Numero” viene mostrato il biglietto con numero e tipo servizio.
 C2	Mostrare posizione e stato in coda (TicketInfo.jsx)	Visualizzare il proprio numero, posizione in coda e stato (“In attesa”, “Servito”).	Far sapere al cliente quando sarà servito.	La posizione si aggiorna dinamicamente o tramite polling.
